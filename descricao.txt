@@ -1,0 +1,20 @@
+016
+    Crie uma classe "Funcionario", onde podemos cadastrar nome, setor e cargo.
+    Crie também um método que permita ao funcionário se apresentar.
+
+017
+    Crie uma classe "Produto", onde podemos cadastrar nome e preço. Crie também um método
+    que mostre uma eriqueta de preço do produto.
+
+018
+    Crie uma classe "Churrasco", onde seja possivel informar quantas pessoas vão participar e mostre
+    quanto de carne deve ser comprado, o custo total do churrasco e o preço por pessoa.
+    Considerando o consumo padrão como 400g p/pessoa
+    e o preço:R$82,40/Kg
+
+019
+    Crie uma classe "Livro" que vai simular a passagem das páginas de um livro.
+    Considerando também se o usuário chegou ao fim da leitura
+
+020
+    Crie uma classe Gamer, onde podemos cadastrar nome, nick e os jogos favoritos de uma pessoa. Crie também um método que permita mostrar a ficha desse gamer.
