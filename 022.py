@@ -81,4 +81,4 @@ while True:
         case "0":
             break
     subprocess.run('cls' if os.name == 'nt' else 'clear')
- #   os.system('cls' if os.name == 'nt' else 'clear')
+ #   os.system('cls' if os.name == 'nt' else 'clear') 
